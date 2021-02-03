@@ -1,5 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <h1 align="center">Hi 👋, I'm Rahul Thakur</h1>
+
+
 <h3 align="center">A passionate Fullstack webdeveloper developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-thakur7&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-thakur7" /> </p>
@@ -30,6 +32,10 @@
 <p align="left">
 <a href="https://twitter.com/rahulth18660383" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rahulth18660383" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14069467/rahul-thakur?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/14069467/rahul-thakur?tab=profile" height="30" width="40" /></a>
+  
+<br><br>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<br><br>
 <a href="https://instagram.com/https://www.instagram.com/coder_rahult/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/coder_rahult/" height="30" width="40" /></a>
 <a href="https://medium.com/@rahulthakur21399" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@rahulthakur21399" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucxp_cd_qungzxmfs3hhqgoq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/ucxp_cd_qungzxmfs3hhqgoq" height="30" width="40" /></a>

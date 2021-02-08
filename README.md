@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **Fullstack webdev**
 
-- 📫 How to reach me **Rahulthakur21399@gmail.com**
+- 📫 How to reach me **rahulthakur21399@gmail.com**
 
 - ⚡ Fun fact **I'm Html Hacker😂😂!!**
 

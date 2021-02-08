@@ -1,5 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<h1 align="center">Hi 👋, I'm Rahul Thakur</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="52px">, I'm Rahul Thakur</h1>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 👉https://rahul-thakur7.github.io/Creative-Resume/
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

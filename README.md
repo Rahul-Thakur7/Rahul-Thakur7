@@ -1,9 +1,10 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="52px">, I'm Rahul Thakur</h1>
 
-Python || Django  Has a great attraction on AI ||ML ||DATAsci &
-MERN DEv
+Python || Django is  a great attraction for me and also Learning AI ||ML || DATAsci & <br>
+
+I'm FULL Stack MERN DEv.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-👉https://rahul-thakur7.github.io/Creative-Resume/
+Ignore this:👉https://rahul-thakur7.github.io/Creative-Resume/
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="center">A passionate Fullstack webdeveloper developer from India</h3>

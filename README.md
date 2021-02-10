@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="52px">, I'm Rahul Thakur</h1>
 
-Python || Django  Has a great attraction on AI ||ML ||DATAsci
+Python || Django  Has a great attraction on AI ||ML ||DATAsci &
 MERN DEv
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 👉https://rahul-thakur7.github.io/Creative-Resume/

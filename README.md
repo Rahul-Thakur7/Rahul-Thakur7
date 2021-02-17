@@ -29,7 +29,7 @@ live Projects: https://friends-grp.herokuapp.com/index.html<br>
 
 - 💬 Ask me about **Fullstack webdev**
 
-- 📫 How to reach me **rahulthakur21399@gmail.com**
+- 📫 How to reach me **rahulthakur21@protonmail.com**
 
 - ⚡ Fun fact **I'm Html Hacker😂😂!!**
 

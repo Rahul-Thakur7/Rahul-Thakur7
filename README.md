@@ -11,7 +11,7 @@ live Projects: https://friends-grp.herokuapp.com/index.html<br>
               : https://network-webapplication.herokuapp.com/
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h3 align="center">A passionate Fullstack webdeveloper developer from India</h3>
+<h3 align="center">In the JOURNEY of  Fullstack webdeveloper</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-thakur7&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-thakur7" /> </p>
 

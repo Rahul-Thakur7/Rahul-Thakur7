@@ -2,7 +2,6 @@
 
 Python || Django is  a great attraction for me and also Learning AI ||ML || DATAsci & <br>
 
-I'm FULL Stack MERN DEv.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Ignore this:👉https://rahul-thakur7.github.io/Creative-Resume/
 

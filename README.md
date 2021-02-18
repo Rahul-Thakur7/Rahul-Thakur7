@@ -60,26 +60,3 @@ live Projects: https://friends-grp.herokuapp.com/index.html<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul-thakur7&show_icons=true&locale=en" alt="rahul-thakur7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-thakur7&" alt="rahul-thakur7" /></p>
-
-
-
-
-
-
-
-
-
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

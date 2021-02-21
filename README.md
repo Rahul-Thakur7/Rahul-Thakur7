@@ -6,8 +6,9 @@ Python || Django is  a great attraction for me and also Learning AI ||ML || DATA
 Ignore this:👉https://rahul-thakur7.github.io/Creative-Resume/
 
 
-live Projects: https://friends-grp.herokuapp.com/index.html<br>
-              : https://network-webapplication.herokuapp.com/
+live Projects:<br>
+GROUP CHAT APPLICATION :https://friends-grp.herokuapp.com/index.html<br>
+NETWORK CHAT APP: https://network-webapplication.herokuapp.com/
               
               
 Certification of learning :-<br>

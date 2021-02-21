@@ -11,6 +11,7 @@ live Projects: https://friends-grp.herokuapp.com/index.html<br>
               
               
 Certification of learning :https://www.udemy.com/certificate/UC-d850604d-1bed-48bc-8f74-50c09ba7956d/
+            python :https://www.udemy.com/certificate/UC-c3a4ec2e-6544-4063-b038-e33ab1542def/
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="center">In the JOURNEY of  Fullstack webdeveloper</h3>

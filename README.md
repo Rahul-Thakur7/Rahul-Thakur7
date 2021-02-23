@@ -40,7 +40,10 @@ Certification of learning :-<br>
 - ⚡ Fun fact **I'm Html Hacker😂😂!!**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START --><br>
+RECENT BLOG POST:<br>
+
+https://telegra.ph/Symmetric--Asymmetric-Encryption-Whats-The-Difference-02-23
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

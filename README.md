@@ -43,7 +43,8 @@ Certification of learning :-<br>
 <!-- BLOG-POST-LIST:START --><br>
 RECENT BLOG POST:<br>
 
-https://telegra.ph/Symmetric--Asymmetric-Encryption-Whats-The-Difference-02-23
+https://telegra.ph/Symmetric--Asymmetric-Encryption-Whats-The-Difference-02-23<br>
+https://telegra.ph/How-To-Surf-Safely-On-Public-WiFi-02-23
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

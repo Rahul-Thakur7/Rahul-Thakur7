@@ -15,6 +15,7 @@ NETWORK CHAT APP: https://network-webapplication.herokuapp.com/
               
               
 Certification of learning :-<br>
+            JS :https://www.hackerrank.com/certificates/3affe444f345
             MERN DEV:https://www.udemy.com/certificate/UC-d850604d-1bed-48bc-8f74-50c09ba7956d/ <br>
             python :https://www.udemy.com/certificate/UC-c3a4ec2e-6544-4063-b038-e33ab1542def/<br>
             WebDev :https://www.udemy.com/certificate/UC-d025eb55-48a0-4464-99b8-c86a82f5bc05/

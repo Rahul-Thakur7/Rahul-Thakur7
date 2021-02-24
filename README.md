@@ -3,9 +3,9 @@
 Python || Django is  a great attraction for me and also Learning AI ||ML || DATAsci & <br>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Ignore this:👉https://rahul-thakur7.github.io/Resume/
+Ignore this:👉https://rahul-thakur7.github.io/Resume/<br>
 
-MY Sololearn PROFILE :https://www.sololearn.com/profile/17762612
+MY Sololearn PROFILE :https://www.sololearn.com/profile/17762612<br>
 w3school :https://mypage.w3schools.com/mypage/default.php
 
 
@@ -15,10 +15,10 @@ NETWORK CHAT APP: https://network-webapplication.herokuapp.com/
               
               
 Certification of learning :-<br>
-            JS :https://www.hackerrank.com/certificates/3affe444f345
+            JS :https://www.hackerrank.com/certificates/3affe444f345<br>
             MERN DEV:https://www.udemy.com/certificate/UC-d850604d-1bed-48bc-8f74-50c09ba7956d/ <br>
             python :https://www.udemy.com/certificate/UC-c3a4ec2e-6544-4063-b038-e33ab1542def/<br>
-            WebDev :https://www.udemy.com/certificate/UC-d025eb55-48a0-4464-99b8-c86a82f5bc05/
+            WebDev :https://www.udemy.com/certificate/UC-d025eb55-48a0-4464-99b8-c86a82f5bc05/<br>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="center">In the JOURNEY of  Fullstack webdeveloper</h3>
@@ -49,7 +49,7 @@ RECENT BLOG POST:<br>
 
 https://telegra.ph/Symmetric--Asymmetric-Encryption-Whats-The-Difference-02-23<br>
 https://telegra.ph/How-To-Surf-Safely-On-Public-WiFi-02-23<br>
-https://telegra.ph/Common-Types-Of-Trojan-Malware-02-23
+https://telegra.ph/Common-Types-Of-Trojan-Malware-02-23<br>
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

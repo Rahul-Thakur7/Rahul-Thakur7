@@ -31,7 +31,7 @@ Certification of learning :-<br>
 
 - 🔭 I’m currently working on **Blog mern website **
 
-- 🌱 I’m currently learning **DataScience, Machine Learning**
+- 🌱 I’m currently learning **MERN DEV**
 
 - 👯 I’m looking to collaborate on **Datasci projects**
 

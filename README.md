@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="52px">, I'm Rahul Thakur</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="52px">, I'm Rahul</h1>
 
 Python || Django is  a great attraction for me and also Learning AI ||ML || DATAsci & <br>
 
@@ -29,7 +29,7 @@ Certification of learning :-<br>
 
 <p align="left"> <a href="https://twitter.com/rahulth18660383" target="blank"><img src="https://img.shields.io/twitter/follow/rahulth18660383?logo=twitter&style=for-the-badge" alt="rahulth18660383" /></a> </p>
 
-- 🔭 I’m currently working on **resume portofolio website**
+- 🔭 I’m currently working on **Blog mern website **
 
 - 🌱 I’m currently learning **DataScience, Machine Learning**
 

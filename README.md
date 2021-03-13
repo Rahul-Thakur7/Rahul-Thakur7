@@ -4,6 +4,7 @@ Python || Django is  a great attraction for me and also Learning AI ||ML || DATA
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Ignore this:👉https://rahul-thakur7.github.io/Resume/<br>
+https://skyline.github.com/rahul-thakur7/2020
 
 MY Sololearn PROFILE :https://www.sololearn.com/profile/17762612<br>
 w3school :https://mypage.w3schools.com/mypage/default.php

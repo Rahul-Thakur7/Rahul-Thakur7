@@ -1,7 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="52px">, I'm Rahul</h1>
 
-Python || Django is  a great attraction for me and also Learning AI ||ML || DATAsci & <br>
-
+learn UI/UX
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 portfolio:👉https://rahul-thakur7.github.io/Resume/<br>
 CV https://cvdesign.mobi/r-WuHnit

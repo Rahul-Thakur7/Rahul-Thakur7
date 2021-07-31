@@ -19,6 +19,8 @@ ________________________________________________________________________________
 live Projects:<br>
  NETWORK CHAT website: [Live](https://network-webapplication.herokuapp.com/)<br>
  GROUP CHAT APPLICATION: [Live](https://friends-grp.herokuapp.com/index.html)<br>
+ 
+ 
 
  
 <br>
@@ -102,10 +104,14 @@ ________________________________________________________________________________
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv)
 ![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
+<br>
+<a href="https://github.com/rahul-thakur7/github-readme-stats" title="Go to Source">
+      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=rahul-thakur7&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
+</a>
+<br>
+<!-- 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul-thakur7&show_icons=true&locale=en&layout=compact" alt="rahul-thakur7" /></p> -->
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul-thakur7&show_icons=true&locale=en&layout=compact" alt="rahul-thakur7" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul-thakur7&show_icons=true&locale=en" alt="rahul-thakur7" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul-thakur7&show_icons=true&locale=en" alt="rahul-thakur7" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-thakur7&" alt="rahul-thakur7" /></p>

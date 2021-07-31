@@ -15,8 +15,10 @@ w3school :https://mypage.w3schools.com/mypage/default.php
 _________________________________________________________________________________________________________________________________________________________________________________
 
 live Projects:<br>
-GROUP CHAT APPLICATION :https://friends-grp.herokuapp.com/index.html<br>
-NETWORK CHAT APP: https://network-webapplication.herokuapp.com/
+ NETWORK CHAT website: [Live](https://network-webapplication.herokuapp.com/)<br>
+ GROUP CHAT APPLICATION: [Live](https://friends-grp.herokuapp.com/index.html)<br>
+
+ 
 <br>
 _________________________________________________________________________________________________________________________________________________________________________________
               

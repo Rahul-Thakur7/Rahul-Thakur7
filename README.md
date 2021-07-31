@@ -2,8 +2,10 @@
 
 learn UI/UX
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-portfolio:👉https://rahul-thakur7.github.io/Resume/<br>
-CV https://cvdesign.mobi/r-WuHnit
+
+🎯 Portfolio website: [Portfolio](https://rahul-thakur7.github.io/Resume/)
+- ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
+
 
 https://skyline.github.com/rahul-thakur7/2020
 

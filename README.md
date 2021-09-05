@@ -5,6 +5,21 @@
 learn UI/UX
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+- 🔭 I’m currently working on **Blog mern website **
+
+- 🌱 I’m currently learning **MERN DEV**
+
+- 👯 I’m looking to collaborate on **Datasci projects**
+
+- 🤝 I’m looking for help with **Open-sources project**
+
+- 💬 Ask me about **Fullstack webdev**
+
+- 📫 How to reach me **rahulthakur21@protonmail.com**
+
+- ⚡ Fun fact **I'm Html Hacker😂😂!!**
+
+
 🎯 Portfolio website: [Portfolio](https://rahul-thakur7.github.io/Resume/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
@@ -43,19 +58,8 @@ Certification of learning :-<br>
 <br>
 
 
-- 🔭 I’m currently working on **Blog mern website **
 
-- 🌱 I’m currently learning **MERN DEV**
 
-- 👯 I’m looking to collaborate on **Datasci projects**
-
-- 🤝 I’m looking for help with **Open-sources project**
-
-- 💬 Ask me about **Fullstack webdev**
-
-- 📫 How to reach me **rahulthakur21@protonmail.com**
-
-- ⚡ Fun fact **I'm Html Hacker😂😂!!**
 _________________________________________________________________________________________________________________________________________________________________________________
 ### Blogs posts
 <!-- BLOG-POST-LIST:START --><br>

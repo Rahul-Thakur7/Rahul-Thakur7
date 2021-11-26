@@ -4,15 +4,15 @@
 Starting learn webpentest
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on **Blog mern website **
+- 🔭 I’m currently working on ** htb **
 
-- 🌱 I’m currently learning **MERN DEV**
+- 🌱 I’m currently learning **pentest**
 
 - 👯 I’m looking to collaborate on **Datasci projects**
 
 - 🤝 I’m looking for help with **Open-sources project**
 
-- 💬 Ask me about **Fullstack webdev**
+- 💬 Ask me about **Tech,Astro**
 
 - 📫 How to reach me **rahulthakur21@protonmail.com**
 

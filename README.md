@@ -4,17 +4,17 @@
 Starting learn webpentest
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on ** htb **
-
-- 🌱 I’m currently learning **pentest**
+- 🔭 I’m currently doing CTF , try to solving rooms on tryhackme also learning on HTB also sharing my learning exp on my blog site if u like do check it out !
+- 
+- 🌱 I’m currently learning **webpentesting**
 
 - 👯 I’m looking to collaborate on **Datasci projects**
 
 - 🤝 I’m looking for help with **Open-sources project**
 
-- 💬 Ask me about **Tech,Astro**
+- 💬 Ask me about **Tech,Astro,Hacking**
 
-- 📫 How to reach me **rahulthakur21@protonmail.com**
+- 📫 How to reach me **rahulthakur21399@gmail.com**
 
 - ⚡ Fun fact **I'm Html Hacker😂😂!!**
 
@@ -30,8 +30,8 @@ w3school :https://mypage.w3schools.com/mypage/default.php
 <br>
 _________________________________________________________________________________________________________________________________________________________________________________
 
-live Projects:<br> 
- NETWORK CHAT website: [Live](https://network-webapplication.herokuapp.com/)<br>
+My live Projects:<br> 
+ Chat with Anonymously with friends: [Live](https://network-webapplication.herokuapp.com/)<br>
  GROUP CHAT APPLICATION: [Live](https://friends-grp.herokuapp.com/index.html)<br>
  
  

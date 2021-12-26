@@ -13,10 +13,10 @@ Starting learn webpentest
 - 🤝 I’m looking for help with **Open-sources project**
 
 - 💬 Ask me about **Tech,Astro,Hacking**
-
+<!-- 
 - 📫 How to reach me **rahulthakur21399@gmail.com**
 
-- ⚡ Fun fact **I'm Html Hacker😂😂!!**
+- ⚡ Fun fact **I'm Html Hacker😂😂!!** -->
 
 
 🎯 Portfolio website: [Portfolio](https://rahul-thakur7.github.io/Resume/)
@@ -32,7 +32,7 @@ ________________________________________________________________________________
 
 My live Projects:<br> 
  Chat with Anonymously with friends: [Live](https://network-webapplication.herokuapp.com/)<br>
- GROUP CHAT APPLICATION: [Live](https://friends-grp.herokuapp.com/index.html)<br>
+<!--  GROUP CHAT APPLICATION: [Live](https://friends-grp.herokuapp.com/index.html)<br> -->
  
  
 

@@ -47,7 +47,7 @@ Certification of learning :-<br>
             WebDev :https://www.udemy.com/certificate/UC-d025eb55-48a0-4464-99b8-c86a82f5bc05/<br> -->
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h3 align="center">In the JOURNEY of  Fullstack webdeveloper</h3>
+<h3 align="center">In the JOURNEY of  Webpentest</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-thakur7&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-thakur7" /> </p>
 

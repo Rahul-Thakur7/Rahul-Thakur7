@@ -34,7 +34,7 @@ My live Projects:<br>
  Chat with Anonymously with friends: [Live](https://network-webapplication.herokuapp.com/)<br>
 <!--  GROUP CHAT APPLICATION: [Live](https://friends-grp.herokuapp.com/index.html)<br> -->
  
- 
+Can we be a VIRTUAL TECH FRIENDS: [Connect With ME](https://www.linkedin.com/in/Rahul-Thakur7/<br>
 
  
 <br>

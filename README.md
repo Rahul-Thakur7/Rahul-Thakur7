@@ -64,7 +64,7 @@ ________________________________________________________________________________
 <!-- BLOG-POST-LIST:START --><br>
 RECENT BLOG POST:<br>
 
-https://bughuntt.blogspot.com/2022/01/how-to-access-kali-or-remote-machine.html<br>
+https://fallcan.blogspot.com/2022/01/how-to-access-kali-or-remote-machine.html<br>
 https://telegra.ph/Easily-expose-your-localhost-on-the-Internet-03-26<br>
 https://telegra.ph/Try-Again-Later-on-Instagram-Reasons-why-you-see-this-error-03-26<br>
 https://telegra.ph/Symmetric--Asymmetric-Encryption-Whats-The-Difference-02-23<br>

@@ -20,7 +20,7 @@ Starting learning webpentest
 - ⚡ Fun fact **I'm Html Hacker😂😂!!** -->
 
 
-🎯 Portfolio website: [Portfolio](https://rahul-thakur7.github.io/Resume/)
+🎯 Portfolio website: [Portfolio](https://rahul-thakur7.github.io/Portfolio.github.io/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
 

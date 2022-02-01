@@ -76,10 +76,7 @@ class HumanBeing:
         }
         self.learning_cybersec = {
             "learning_on" : ["THM", "HTB"]
-            
-            "misc" : ["heroku", "AWS", "netlify", "docker"]
-            "tools" : ["sqlmap", "nmap", "wireshark", "open-source_tools"]
-            
+          
             
         }
         

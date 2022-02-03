@@ -4,11 +4,12 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="52px">, I'm Rahul</h1>
 
 
-learning webpentest
+Cybersecurity Enthusiast learning webpentest
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+-  🐱‍👤Cybersecurity Enthusiast || Cyber Security Intern at Cybersecured India 
 - 🔭 I’m currently doing CTF , try to solving rooms on tryhackme also learning on HTB also sharing my learning exp on my blog site  <br>if u like do check it out !
 - 🌱 I’m currently learning **webpentesting**
+- 🤝 I’m love to connect like minded people like you **[Connect](https://www.linkedin.com/in/Rahul-Thakur7/)<br>**
 
 - 🤝 I’m looking for help with **Open-sources project**
 
@@ -25,8 +26,7 @@ learning webpentest
 My live Projects:<br> 
  Chat with Anonymously with friends: [Live](https://network-webapplication.herokuapp.com/)<br>
 <!--  GROUP CHAT APPLICATION: [Live](https://friends-grp.herokuapp.com/index.html)<br> -->
- 
-Can we be a VIRTUAL TECH FRIENDS: [Connect](https://www.linkedin.com/in/Rahul-Thakur7/)<br>
+
 
  
 

@@ -1,33 +1,23 @@
+
+<h1 align="left">$whoami?</h1>
 <img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="52px">, I'm Rahul</h1>
 
 
-Starting learning webpentest
+learning webpentest
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently doing CTF , try to solving rooms on tryhackme also learning on HTB also sharing my learning exp on my blog site if u like do check it out !
-- 
+- 🔭 I’m currently doing CTF , try to solving rooms on tryhackme also learning on HTB also sharing my learning exp on my blog site  <br>if u like do check it out !
 - 🌱 I’m currently learning **webpentesting**
-
-- 👯 I’m looking to collaborate on **Datasci projects**
 
 - 🤝 I’m looking for help with **Open-sources project**
 
 - 💬 Ask me about **Tech,Astro,Hacking**
-<!-- 
-- 📫 How to reach me **rahulthakur21399@gmail.com**
 
-- ⚡ Fun fact **I'm Html Hacker😂😂!!** -->
+-  🎯 Portfolio website: [Portfolio](https://rahul-thakur7.github.io/Portfolio.github.io/)
 
+[Sololearn PROFILE](https://www.sololearn.com/profile/17762612)<br>
 
-🎯 Portfolio website: [Portfolio](https://rahul-thakur7.github.io/Portfolio.github.io/)
-- ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
-
-
-https://skyline.github.com/rahul-thakur7/2020
-
-MY Sololearn PROFILE :https://www.sololearn.com/profile/17762612<br>
-w3school :https://mypage.w3schools.com/mypage/default.php
 <br>
 
 My live Projects:<br> 

@@ -23,8 +23,8 @@ Cybersecurity Enthusiast learning webpentest
 
 <br>
 
-My live Projects:<br> 
- Chat with Anonymously with friends: [Live](https://network-webapplication.herokuapp.com/)<br>
+My Projects:<br> 
+ Chat Anonymously with friends: [Live](https://network-webapplication.herokuapp.com/)<br>
 <!--  GROUP CHAT APPLICATION: [Live](https://friends-grp.herokuapp.com/index.html)<br> -->
 
 

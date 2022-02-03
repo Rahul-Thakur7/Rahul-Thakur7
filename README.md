@@ -55,7 +55,7 @@ class HumanBeing:
         self.username = ["Rahul-Thakur7", "_TheFalcon_"]
         self.pronouns = ["He", "Him"]
         self.role = "Cybersecurity Enthusiast"
-        self.code = ["Python", "Javascript", "HTML", "CSS", "HTML"]
+        self.code = ["Python", "Javascript", "HTML", "CSS", "Bash"]
         
         self.askMeAbout = ["Tech", "hacking", "actronomy", "ideas",]
         self.technologies = {

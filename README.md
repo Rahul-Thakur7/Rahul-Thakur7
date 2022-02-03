@@ -60,9 +60,12 @@ class HumanBeing:
         self.askMeAbout = ["Tech", "hacking", "actronomy", "ideas",]
         self.technologies = {
             "frontEnd" : ["HTML", "CSS"],
+            "backEnd" : ["Nodejs", "expjs"],
             "databases" : ["mongoDB", "MySql", "Sql"],
-            "misc" : ["heroku", "AWS", "netlify", "docker"]
-            "tools" : ["sqlmap", "nmap", "wireshark", "open-source_tools"]
+            "misc" : ["heroku","netlify", "docker"],
+            "Virtualization" : ["VMware", "Virtualbox"],
+            "OS" : ["linux", "win10"],
+            "tools" : ["sqlmap", "nmap", "wireshark", "and other open-source"]
             
             
         }

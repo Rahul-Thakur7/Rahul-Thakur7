@@ -34,7 +34,10 @@ My Projects:<br>
 <!-- BLOG-POST-LIST:START --><br>
 RECENT BLOG POST:<br>
 
-https://medium.com/@rahulthakur21399/pentesting-guide-599058db7ba9 <br>
+[Medium](https://medium.com/@7h3F4lc0n)<br>
+
+[Blogger](https://fallc0n.blogspot.com/)<br>
+
 https://fallc0n.blogspot.com/2022/01/how-to-access-kali-or-remote-machine.html<br>
 https://telegra.ph/Easily-expose-your-localhost-on-the-Internet-03-26<br>
 https://telegra.ph/Try-Again-Later-on-Instagram-Reasons-why-you-see-this-error-03-26<br>

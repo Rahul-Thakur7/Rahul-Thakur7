@@ -20,6 +20,8 @@ Cybersecurity Enthusiast learning webpentest
 [Sololearn PROFILE](https://www.sololearn.com/profile/17762612)<br>
 
 [Tryhackme](https://tryhackme.com/p/rahulthakur)<br>
+[Web pentest book](https://edu.anarcho-copy.org/Against%20Security%20&%20%20Self%20Security/Practical%20Web%20Penetration%20Testing.pdf)<br>
+
 
 <br>
 

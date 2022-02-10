@@ -29,6 +29,9 @@ My Projects:<br>
  Chat Anonymously with friends: [Live](https://network-webapplication.herokuapp.com/)<br>
 <!--  GROUP CHAT APPLICATION: [Live](https://friends-grp.herokuapp.com/index.html)<br> -->
 
+ My Hacking Notes: [Live](https://www.notion.so/Ethical-hacking-and-Penetration-testing-4f32229f0c6f4911beae68b1a758ebf6)<br>
+
+
 
  
 

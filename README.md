@@ -21,7 +21,28 @@ Cybersecurity Enthusiast learning webpentest
 
 [Tryhackme](https://tryhackme.com/p/rahulthakur)<br>
 [Web pentest book](https://edu.anarcho-copy.org/Against%20Security%20&%20%20Self%20Security/Practical%20Web%20Penetration%20Testing.pdf)<br>
+<br>
+### 🌐  My Online Presence
+<!--
+<p align="left">
+<a href="https://" target="_blank">
+  <img align="center" alt="| Linkedin" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://" target="_blank">
+  <img align="center" alt=" | Twitter" width="31px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://" target="_blank">
+  <img align="center" alt=" | Instagram" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+</a> &nbsp;&nbsp;
+<a href="mailto:">
+  <img align="center" alt="| Gmail" width="32px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://">
+<img align="center" alt=" | Blog" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" />
+</a> 
+<p>
 
+-->
 
 <br>
 

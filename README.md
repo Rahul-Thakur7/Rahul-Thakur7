@@ -1,13 +1,17 @@
 
 <h1 align="left">$whoami?</h1>
-<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="52px">, I'm Rahul</h1>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=root%40falcon~%23+whoami;%E2%9C%93+Web+Developer;%E2%9C%93+Pentester;%E2%9C%93+CTF+Player+;%E2%9C%93+Automation+Developer+;%E2%9C%93++)](https://git.io/typing-svg)
+<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
+
 
 
 Cybersecurity Enthusiast learning webpentest
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -  🐱‍👤Cybersecurity Enthusiast || Cyber Security Intern at Cybersecured India 
-- 🔭 I’m currently doing CTF , try to solving rooms on tryhackme also learning on HTB also sharing my learning exp on my blog site  <br>if u like do check it out !
+- 🔭 I’m currently playing CTF , try to solving rooms on tryhackme also learning on HTB also sharing my learning exp on my blog site  <br>if u like do check it out !
 - 🌱 I’m currently learning **webpentesting**
 - 🤝 I’m love to connect like minded people like you **[Connect](https://www.linkedin.com/in/Rahul-Thakur7/)<br>**
 

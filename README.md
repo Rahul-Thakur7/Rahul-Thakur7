@@ -19,8 +19,6 @@ Cybersecurity Enthusiast learning webpentest
 
 - 💬 Ask me about **Tech,Astro,Hacking**
 
--  🎯 Portfolio website: [Portfolio](https://rahul-thakur7.github.io/Portfolio.github.io/)
-
 [Sololearn PROFILE](https://www.sololearn.com/profile/17762612)<br>
 
 [Tryhackme](https://tryhackme.com/p/rahulthakur)<br>
@@ -110,7 +108,7 @@ class HumanBeing:
         }
         
         self.currentFocus = "Learning Cybersecurity"
-        self.funFact = "Fun fact: i like cats 🎴"
+        
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting!!")

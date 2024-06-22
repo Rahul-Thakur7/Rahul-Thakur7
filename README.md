@@ -64,16 +64,6 @@ RECENT BLOG POST:<br>
 
 [Medium](https://medium.com/@7h3F4lc0n)<br>
 
-[Blogger](https://fallc0n.blogspot.com/)<br>
-
-https://fallc0n.blogspot.com/2022/01/how-to-access-kali-or-remote-machine.html<br>
-https://telegra.ph/Easily-expose-your-localhost-on-the-Internet-03-26<br>
-https://telegra.ph/Try-Again-Later-on-Instagram-Reasons-why-you-see-this-error-03-26<br>
-https://telegra.ph/Symmetric--Asymmetric-Encryption-Whats-The-Difference-02-23<br>
-https://telegra.ph/How-To-Surf-Safely-On-Public-WiFi-02-23<br>
-https://telegra.ph/Common-Types-Of-Trojan-Malware-02-23<br>
-<!-- BLOG-POST-LIST:END -->
-
 
 
 

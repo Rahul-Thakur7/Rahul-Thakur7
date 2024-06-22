@@ -1,5 +1,3 @@
-
-<h1 align="left">$whoami?</h1>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="52px">, I'm Rahul</h1>
 
 
@@ -59,10 +57,8 @@ My Projects:<br>
  
 
 ## Blogs posts
-<!-- BLOG-POST-LIST:START --><br>
-RECENT BLOG POST:<br>
 
-[Medium](https://medium.com/@7h3F4lc0n)<br>
+[Blog Site](https://sarsolutionz.blogspot.com/)<br>
 
 
 

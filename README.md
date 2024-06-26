@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=%23+whoami;%E2%9C%93+Web+Developer;%E2%9C%93+Pentester;%E2%9C%93+CTF+Player+;%E2%9C%93++;%E2%9C%93++)](https://git.io/typing-svg)
 <img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
 <!-- Insert this tag where you want the widget to render -->
-<iframe width="200" height="200" src="https://cybermap.kaspersky.com/en/widget/dynamic/dark" frameborder="0">
+<!--<iframe width="200" height="200" src="https://cybermap.kaspersky.com/en/widget/dynamic/dark" frameborder="0">-->
 
 
 Just Curious Learner, love to learn and practice hacking things

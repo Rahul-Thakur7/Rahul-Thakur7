@@ -23,26 +23,7 @@ Cybersecurity Enthusiast learning webpentest
 [Web pentest book](https://edu.anarcho-copy.org/Against%20Security%20&%20%20Self%20Security/Practical%20Web%20Penetration%20Testing.pdf)<br>
 <br>
 ### 🌐  My Online Presence
-<!--
-<p align="left">
-<a href="https://" target="_blank">
-  <img align="center" alt="| Linkedin" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://" target="_blank">
-  <img align="center" alt=" | Twitter" width="31px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://" target="_blank">
-  <img align="center" alt=" | Instagram" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-</a> &nbsp;&nbsp;
-<a href="mailto:">
-  <img align="center" alt="| Gmail" width="32px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://">
-<img align="center" alt=" | Blog" width="30px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" />
-</a> 
-<p>
 
--->
 
 <br>
 
@@ -59,50 +40,6 @@ My Projects:<br>
 ## Blogs posts
 
 [Blog Site](https://sarsolutionz.blogspot.com/)<br>
-
-
-
-
-```python
-from world import love
-
-class HumanBeing:
-
-    def __init__(self):
-        self.name = "Rahul thakur"
-        self.username = ["Rahul-Thakur7", "_TheFalcon_"]
-        self.pronouns = ["He", "Him"]
-        self.role = "Cybersecurity Enthusiast"
-        self.code = ["Python", "Javascript", "HTML", "CSS", "Bash"]
-        
-        self.askMeAbout = ["Tech", "hacking", "actronomy", "ideas",]
-        self.technologies = {
-            "frontEnd" : ["HTML", "CSS"],
-            "backEnd" : ["Nodejs", "expjs"],
-            "databases" : ["mongoDB", "MySql", "Sql"],
-            "misc" : ["heroku","netlify", "docker"],
-            "Virtualization" : ["VMware", "Virtualbox"],
-            "OS" : ["linux", "win10"],
-            "tools" : ["sqlmap", "nmap", "wireshark", "and other open-source"]
-            
-            
-        }
-        self.learning_cybersec = {
-            "learning_on" : ["THM", "HTB"]
-          
-            
-        }
-        
-        self.currentFocus = "Learning Cybersecurity"
-        
-
-    def say_hi(self):
-        print("Thanks for dropping by, hope you find some of my work interesting!!")
-
-me = HumanBeing()
-me.say_hi()
-love.everyone()
-```
 
 
 <!-- 

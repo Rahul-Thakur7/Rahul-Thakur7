@@ -5,11 +5,10 @@
 <img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
 
 
-
-Cybersecurity Enthusiast learning webpentest
+Just Curious Learning who love to learn and practice hacking things
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -  🐱‍👤Cybersecurity Enthusiast || Security Analyst @ QRC
-- 🔭 I’m currently learning **Red Team** on THM also sharing my learning exp on my blog site  <br>if u like do check it out !
+- 🔭 I’m currently learning **Red Teaming** on THM also sharing my learning exp on my blog site  <br>if u like do check it out!
 - 🤝 I’m love to connect like minded people like you **[Connect](https://www.linkedin.com/in/Rahul-Thakur7/)<br>**
 
 - 🤝 I’m looking for help with **Open-sources project**
@@ -18,8 +17,8 @@ Cybersecurity Enthusiast learning webpentest
 
 [Sololearn PROFILE](https://www.sololearn.com/profile/17762612)<br>
 
-[Tryhackme]([https://tryhackme.com/p/thehackr](https://tryhackme.com/p/Thehackr))<br>
-[Web pentest book](https://edu.anarcho-copy.org/Against%20Security%20&%20%20Self%20Security/Practical%20Web%20Penetration%20Testing.pdf)<br>
+[Tryhackme](https://tryhackme.com/p/Thehackr)<br>
+[pentest book](https://edu.anarcho-copy.org/Against%20Security%20&%20%20Self%20Security/Practical%20Web%20Penetration%20Testing.pdf)<br>
 <br>
 ### 🌐  My Online Presence
 [Porfolio](https://thehackr.netlify.app/)<br>

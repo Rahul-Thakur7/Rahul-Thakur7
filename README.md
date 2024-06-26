@@ -8,9 +8,8 @@
 
 Cybersecurity Enthusiast learning webpentest
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
--  🐱‍👤Cybersecurity Enthusiast || Cyber Security Intern at Cybersecured India 
-- 🔭 I’m currently playing CTF , try to solving rooms on tryhackme also learning on HTB also sharing my learning exp on my blog site  <br>if u like do check it out !
-- 🌱 I’m currently learning **webpentesting**
+-  🐱‍👤Cybersecurity Enthusiast || Security Analyst @ QRC
+- 🔭 I’m currently learning **Red Team** on THM also sharing my learning exp on my blog site  <br>if u like do check it out !
 - 🤝 I’m love to connect like minded people like you **[Connect](https://www.linkedin.com/in/Rahul-Thakur7/)<br>**
 
 - 🤝 I’m looking for help with **Open-sources project**
@@ -19,11 +18,11 @@ Cybersecurity Enthusiast learning webpentest
 
 [Sololearn PROFILE](https://www.sololearn.com/profile/17762612)<br>
 
-[Tryhackme](https://tryhackme.com/p/rahulthakur)<br>
+[Tryhackme](https://tryhackme.com/p/thehackr)<br>
 [Web pentest book](https://edu.anarcho-copy.org/Against%20Security%20&%20%20Self%20Security/Practical%20Web%20Penetration%20Testing.pdf)<br>
 <br>
 ### 🌐  My Online Presence
-
+[Porfolio](https://thehackr.netlify.app/)<br>
 
 <br>
 

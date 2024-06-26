@@ -5,7 +5,7 @@
 <img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
 
 
-Just Curious Learning who love to learn and practice hacking things
+Just Curious Learner, love to learn and practice hacking things
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -  🐱‍👤Cybersecurity Enthusiast || Security Analyst @ QRC
 - 🔭 I’m currently learning **Red Teaming** on THM also sharing my learning exp on my blog site  <br>if u like do check it out!

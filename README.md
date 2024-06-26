@@ -7,8 +7,8 @@
 
 Just Curious Learner, love to learn and practice hacking things
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
--  🐱‍👤Cybersecurity Enthusiast || Security Analyst @ QRC
-- 🔭 I’m currently learning **Red Teaming** on THM also sharing my learning exp on my blog site  <br>if u like do check it out!
+-  🐱‍👤Security Analyst @ QRC
+- 🔭 I’m currently learning **Red Teaming** on THM also sharing my learning exp on my blog site, if u like do check it out! [Blog Site](https://sarsolutionz.blogspot.com/)
 - 🤝 I’m love to connect like minded people like you **[Connect](https://www.linkedin.com/in/Rahul-Thakur7/)<br>**
 
 - 🤝 I’m looking for help with **Open-sources project**

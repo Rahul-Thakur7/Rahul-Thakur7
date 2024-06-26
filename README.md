@@ -1,4 +1,4 @@
-<h1 align="center">Namaste Jii🙏 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="52px">, Mera naam Rahul hai, naam toh suna hi hoga😆</h1>
+<h1 align="center">Namaste Jii🙏 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="52px"> Mera naam Rahul hai, naam toh suna hi hoga😆</h1>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=%23+whoami;%E2%9C%93+Web+Developer;%E2%9C%93+Pentester;%E2%9C%93+CTF+Player+;%E2%9C%93++;%E2%9C%93++)](https://git.io/typing-svg)
@@ -35,3 +35,5 @@ Notes: [Live](https://www.notion.so/Ethical-hacking-and-Penetration-testing-4f32
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahul-thakur7&show_icons=true&locale=en" alt="rahul-thakur7" /></p> -->
 <!-- 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-thakur7&" alt="rahul-thakur7" /></p> -->
+
+<h1 align="center">Tata Bye Bye  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="52px"> 

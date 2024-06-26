@@ -15,21 +15,18 @@ Just Curious Learner, love to learn and practice hacking things
 
 - 💬 Ask me about **Tech,Astro,Hacking**
 
-[Sololearn PROFILE](https://www.sololearn.com/profile/17762612)<br>
+[Sololearn Profile](https://www.sololearn.com/profile/17762612)<br>
 
 [Tryhackme](https://tryhackme.com/p/Thehackr)<br>
-[pentest book](https://edu.anarcho-copy.org/Against%20Security%20&%20%20Self%20Security/Practical%20Web%20Penetration%20Testing.pdf)<br>
-<br>
+[Pentest Book](https://edu.anarcho-copy.org/Against%20Security%20&%20%20Self%20Security/Practical%20Web%20Penetration%20Testing.pdf)<br>
+
 ### 🌐  My Online Presence
 [Porfolio](https://thehackr.netlify.app/)<br>
-
-## Blogs posts
 [Blog Site](https://sarsolutionz.blogspot.com/)<br>
 
-Projects:<br> 
- Chat Anonymously with friends: [Live](https://network-webapplication.herokuapp.com/)<br>
-<!--  GROUP CHAT APPLICATION: [Live](https://friends-grp.herokuapp.com/index.html)<br> -->
-
+### 🌐 Projects
+Chat Anonymously with friends: [Live](https://network-webapplication.herokuapp.com/)<br>
+GROUP CHAT APPLICATION: [Live](https://friends-grp.herokuapp.com/index.html)<br>
 Notes: [Live](https://www.notion.so/Ethical-hacking-and-Penetration-testing-4f32229f0c6f4911beae68b1a758ebf6)<br>
 
 <!-- 

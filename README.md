@@ -1,8 +1,10 @@
-<h1 align="center">On jour 🌐</h1>
+<h1 align="center">Namaste Jii🙏! Mera naam Rahul hai, naam toh suna hi hoga😆</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there!
-</p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=%23+whoami;%E2%9C%93+Web+Developer;%E2%9C%93+Pentester;%E2%9C%93+CTF+Player+;%E2%9C%93++;%E2%9C%93++)](https://git.io/typing-svg)
+<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
+<!-- Insert this tag where you want the widget to render -->
+<!--<iframe width="200" height="200" src="https://cybermap.kaspersky.com/en/widget/dynamic/dark" frameborder="0">-->
 
 I'm **Rahul**, a hacker and Security Researcher. I'm currently on my way to mastering **Red Teaming** and becoming an advanced **Pentester**.
 
@@ -13,12 +15,11 @@ I'm **Rahul**, a hacker and Security Researcher. I'm currently on my way to mast
 ### ▼ More about me:
 
 - **Name**: Rahul Thakur
-- **From**: India 🇮🇳
+- **From**: Bharat (India)
 - **Pentester** | **Security Analyst** | **Red Teamer**
-- Expertise in: Hacking web apps, Bug Hunting, Social Engineering, Reverse Engineering, and Malware Analysis
+- Expertise in hacking web apps, bug hunting, and social engineering.
 - Currently enhancing knowledge in **Red Teaming** and **Web Vulnerabilities**
 - Learning every day and exploring **new cybersecurity tools and techniques**
-- Feel free to reach me: [Rahul's Email](mailto:coffinxp7@proton.me) <!-- Replace with your email -->
   
 ---
 

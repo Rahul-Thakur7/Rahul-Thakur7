@@ -1,4 +1,7 @@
-<h1 align="center">Namaste Jii🙏! Mera naam Rahul hai, naam toh suna hi hoga😆</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1500&height=140&lines=Namaste+Jii🙏!+Mera+naam+Rahul+hai,+naam+toh+suna+hi+hoga😆" width="100%" />
+</p>
+
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=%23+whoami;%E2%9C%93+Web+Developer;%E2%9C%93+Pentester;%E2%9C%93+CTF+Player+;%E2%9C%93++;%E2%9C%93++)](https://git.io/typing-svg)

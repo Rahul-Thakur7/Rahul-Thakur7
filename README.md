@@ -8,26 +8,7 @@
 
 I'm **Rahul**, a hacker and Security Researcher. I'm currently on my way to mastering **Red Teaming** and becoming an advanced **Pentester**.
 
-**Technology** and **hacking** have always fascinated me, and I've immersed myself in the world of cybersecurity, from reverse engineering to web vulnerabilities. My aim is to build and share knowledge while protecting companies' assets from cyber threats.
-
----
-
-### ▼ More about me:
-
-- **Name**: Rahul Thakur
-- **From**: Bharat (India)
-- **Pentester** | **Security Analyst** | **Red Teamer**
-- Expertise in hacking web apps, bug hunting, and social engineering.
-- Currently enhancing knowledge in **Red Teaming** and **Web Vulnerabilities**
-- Learning every day and exploring **new cybersecurity tools and techniques**
-  
----
-
-### 📚 Favorite Resources
-
-- [Practical Web Penetration Testing Book](https://edu.anarcho-copy.org/Against%20Security%20&%20%20Self%20Security/Practical%20Web%20Penetration%20Testing.pdf)
-  
----
+**Technology** and **hacking** have always fascinated me, and I've immersed myself in cybersecurity. I aim to build and share knowledge while protecting companies' assets from cyber threats.
 
 ### 🌐 Connect with Me:
 

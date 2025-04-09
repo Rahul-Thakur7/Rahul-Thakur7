@@ -1,16 +1,14 @@
+<h1 align="center">⚡ Rahul Thakur ⚡</h1>
+<h3 align="center">"Learning...🕉️ | Code. Exploit. Repeat."</h3>
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=600&lines=On+the+journey+to+be+a+Best+Hacker;Cybersecurity+Specialist;Security+Researcher;Always+Learning+Something+New" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Hack&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=👾+Cybersecurity+Analyst+%7C+Red+Teamer;🔍+Pentester+%7C+Bug+Bounty+Hunter;🛡️+CTF+Player+%7C+Exploit+Dev;👨‍💻+Living+Off+the+Land+%7C+Breaking+Rules+to+Protect+Them" alt="Typing SVG" />
 </div>
 
+---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=%23+whoami;%E2%9C%93+Web+Developer;%E2%9C%93+Pentester;%E2%9C%93+CTF+Player+;%E2%9C%93++;%E2%9C%93++)](https://git.io/typing-svg)
-<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="420" height="300"/>
 
-### 🌐 Connect with Me:
-
-- **Portfolio**: [thehackr.netlify.app](https://thehackr.netlify.app/)
-- **LinkedIn**: [Rahul Thakur](https://www.linkedin.com/in/Rahul-Thakur7/)
-- **Blog**: [My Blog](https://sarsolutionz.blogspot.com/)
-- **TryHackMe**: [Thehackr](https://tryhackme.com/p/Thehackr)
+```bash
+┌──[root@rahulthakur]─[~/cyber_space]
+└─$ whoami

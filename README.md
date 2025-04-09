@@ -12,3 +12,31 @@
 ```bash
 ┌──[root@rahulthakur]─[~/cyber_space]
 └─$ whoami
+LANGUAGES  = ["Python", "Bash", "JavaScript", "Go", "C/C++"]
+TOOLS      = ["BurpSuite", "Metasploit", "Nmap", "Amass", "SQLMap", "Subfinder", "Nuclei", "Custom Scripts"]
+DOMAINS    = ["Web", "API", "Mobile", "Cloud", "Internal Infra", "Wireless", "Darknet"]
+STACK      = ["Kali", "Parrot", "Arch", "Android", "Windows"]
+MINDSET    = ["Offensive", "Curious", "Persistent", "Disciplined"]
+📊 Stats & Intel Feeds
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rahul-thakur7&show_icons=true&theme=radical&border_color=ff0000&title_color=00ff00&icon_color=00ff00" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-thakur7&theme=matrix&date_format=M%20j%5B%2C%20Y%5D" width="48%"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-thakur7&layout=compact&theme=radical" width="48%" /> </p>
+🧪 Ongoing Projects
+🕷️ SubSniper v2.0 – Passive Subdomain Enumeration + Live Host Discovery
+
+👁️ DOM-X – AI-driven DOM XSS analyzer + fuzz engine
+
+👾 GhostC2 – Stealth C2 for red teaming with modular payloads
+
+🔐 ReconBot – Automated multi-source OSINT + target profiling
+
+🧠 Hacker Quotes & Vibes
+"Attack is the secret of defense; defense is the planning of an attack."
+— Sun Tzu, The Art of War
+
+"I'm not a great programmer; I'm just a good programmer with great habits."
+— Kent Beck
+
+"Asatoma Sadgamaya, Tamasoma Jyotirgamaya, Mrityorma Amritam Gamaya."
+– Brihadaranyaka Upanishad 🕉️
+
+🔥 "Tools get old. Techniques evolve. But mindset is everything."
+— Rahul Thakur |  💻⚔️🕉

@@ -9,6 +9,7 @@
 
 
 ```bash
+
 ┌──[root@rahulthakur]─[~/quiet_exploits]
 └─$ whoami
 🔒 Rahul Thakur - The Silent Exploit
@@ -21,5 +22,5 @@
 📡 Motto: "I may not reply, but I’m scanning your ports."
 
 
-Hacking is not a crime until you are caught doing something illegal 
+Hackers are the Captain Jack Sparrow of the Sea of the Internet, navigating through the waves in search of treasure... and that treasure is data.
                                                                   -- Rahul Thakur

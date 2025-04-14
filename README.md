@@ -19,3 +19,7 @@
 - Doesn't do small talk, does buffer overflows 🧠💥
 
 📡 Motto: "I may not reply, but I’m scanning your ports."
+
+
+Hacking is not a crime until you are caught doing something illegal 
+                                                                  -- Rahul Thakur

@@ -19,7 +19,7 @@
 - Finds peace in packet captures & Python scripts 🧘‍♂️🐍
 - Doesn't do small talk, does buffer overflows 🧠💥
 
-📡 Motto: "I may not reply, but I’m scanning your ports."
+📡 "I may not reply, but I’m scanning your ports."
 
 
 Hackers are the Captain Jack Sparrow of the Sea of the Internet, navigating through the waves in search of treasure... and that treasure is data.

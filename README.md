@@ -2,7 +2,7 @@
 <h3 align="center">"Learining | Code. Exploit. Repeat."</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=👾+Cybersecurity+Analyst+%7C+Red+Teamer;🔍+Pentester+%7C+Bug+Bounty+Hunter;🛡️+CTF+Player+%7C+Exploit+Dev;👨‍💻+Living+Off+the+Land+%7C+Breaking+Rules+to+Protect+Them" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=👾+Cybersecurity+Analyst+%7C+Red+Teamer+Learning..;🔍+Pentester+%7C+Bug+Hunter;🛡️+CTF+Player+%7C+Exploit+Dev;👨‍💻+Living+Off+the+Land+%7C+Breaking+Rules+to+Protect+Them" alt="Typing SVG" />
 </p>
 
 
